@@ -1,0 +1,7 @@
+Algorithm for intiger multiplication
+inverse pair finding
+n(n-1)/2 for summation. sum of number from 1 to 9 is 10(9)/2
+Stressen's matrix multiplication
+sequential and divide and conquer is n2 complexity
+closest pair algm
+euclidian distance sqrt((x_i - x_j) + (y_i - y_j))
