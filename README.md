@@ -1,1 +1,1 @@
-# Algorithms 101
+# Algorithms & Data Structures 101
